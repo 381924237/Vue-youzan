@@ -52,7 +52,7 @@
         >
           <li v-for="list in lists" :key="list.id">
             <div class="goods-item">
-              <a :href="'/goods.html?id=' + list.id">
+              <a :href="'goods.html?id=' + list.id">
                 <div class="thumb img-box">
                   <img class="fadeIn" :src="list.img">
                 </div>
