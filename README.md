@@ -1,5 +1,7 @@
 # youzan
 
+[预览地址](https://381924237.github.io/Vue-youzan/dist)
+
 ## Project setup
 ```
 npm install
